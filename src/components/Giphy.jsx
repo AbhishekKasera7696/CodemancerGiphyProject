@@ -3,7 +3,7 @@ import axios from "axios";
 
 import Loader from "./Loader";
 import Paginate from "./Paginate";
-import { render } from "react-dom";
+// import { render } from "react-dom";
 
 const Giphy = () => {
   const [data, setData] = useState([]);
@@ -47,9 +47,7 @@ const Giphy = () => {
     fetchData();
   }, []);
 
-//   useEffect(()=>{
-//      render();
-//   },[form])
+
 
   const imageSave = (e) => {
     // e.preventDefault();
