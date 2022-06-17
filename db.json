@@ -1,67 +1,36 @@
 {
   "myData": [
     {
-      "message": "Abhishek",
-      "": "a",
+      "message": "hi",
       "id": 1
     },
     {
-      "message": "Abhishek",
-      "": "a",
+      "message": "",
       "id": 2
     },
     {
-      "message": "Abhishek",
-      "": "a",
+      "message": "",
       "id": 3
     },
     {
-      "message": "Manish",
+      "message": "hello",
       "id": 4
     },
     {
-      "message": "Manish",
+      "message": "",
       "id": 5
     },
     {
-      "message": "Hello World",
+      "message": "https://media2.giphy.com/media/ytBuODur5PaUlOHyQ7/200.gif?cid=d82d037efuiude3uc4yejspwn5c34rnlhdye0jvk7hguc4zu&rid=200.gif&ct=g",
       "id": 6
     },
     {
-      "message": "How Are you",
+      "message": "https://media2.giphy.com/media/ytBuODur5PaUlOHyQ7/200.gif?cid=d82d037efuiude3uc4yejspwn5c34rnlhdye0jvk7hguc4zu&rid=200.gif&ct=g",
       "id": 7
     },
     {
-      "message": "kya haal ba",
+      "message": "https://media2.giphy.com/media/ytBuODur5PaUlOHyQ7/200.gif?cid=d82d037efuiude3uc4yejspwn5c34rnlhdye0jvk7hguc4zu&rid=200.gif&ct=g",
       "id": 8
-    },
-    {
-      "message": "",
-      "id": 9
-    },
-    {
-      "message": "",
-      "id": 10
-    },
-    {
-      "message": "https://media1.giphy.com/media/ytBuODur5PaUlOHyQ7/200.gif?cid=d82d037e0s36p2fi5qt21h9o7amptbzjf3fkw1dwbrsbook3&rid=200.gif&ct=g",
-      "id": 11
-    },
-    {
-      "message": "",
-      "id": 12
-    },
-    {
-      "message": "https://media4.giphy.com/media/ZRrDxmYBhA5jOxhYqJ/200.gif?cid=d82d037ex38woxuov38u4fvcfmc7zrgd8k7nlsfacacczg3z&rid=200.gif&ct=g",
-      "id": 13
-    },
-    {
-      "message": "Hi.",
-      "id": 14
-    },
-    {
-      "message": "how are u?",
-      "id": 15
     }
   ]
 }

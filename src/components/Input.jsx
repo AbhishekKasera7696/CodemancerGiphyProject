@@ -82,9 +82,9 @@ const Input = () => {
   
 
   return (
-    <div style={{width:"100%", height:"500px",}}>
+    <>
       
-        <div style={{width:"100%",height:"800px",padding:"20px"}}>
+        <div style={{width:"100%",height:"500px",padding:"20px"}}>
             {data.map((item)=> {return(item.message.includes('https://') ? <img style={{width:"200px", height:"200px"}} src={item.message} alt="image1"/> : <p>{item.message}</p>)})}
               {active?<Giphy/>:""}
         </div>
@@ -98,7 +98,7 @@ const Input = () => {
            
    
      
-    </div>
+    </>
   )
 }
 
